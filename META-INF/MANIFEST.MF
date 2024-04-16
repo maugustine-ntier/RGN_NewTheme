@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Newtheme
+Bundle-SymbolicName: org.ntier.newtheme
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.adempiere.ui.zk;bundle-version="11.0.0"
+Automatic-Module-Name: org.ntier.newtheme
+Bundle-ClassPath: src/,
+ .
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Jetty-WarFragmentFolderPath: /
+
