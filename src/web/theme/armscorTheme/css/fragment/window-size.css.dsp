@@ -221,6 +221,7 @@
 
 .quick-entry-dialog {
 	width: 350px;
+	min-height:250px;
 }
 .quick-entry-dialog > .z-window-content {
 	overflow: auto;
